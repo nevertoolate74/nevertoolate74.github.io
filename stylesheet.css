@@ -4,10 +4,10 @@ h1 {
    font-weight: bold;
    color: khaki; 
    text-align: center;  
-   background-image: "https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg";
+   background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
 }
 
-h3.brushes {
+h2.brushes {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -19,7 +19,7 @@ bold {
     color: blue;
 }
 
-h3.frames {
+h2.frames {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
@@ -27,7 +27,7 @@ h3.frames {
     background-color: lightcoral;
 }
 
-h3.paint {
+h2.paint {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
